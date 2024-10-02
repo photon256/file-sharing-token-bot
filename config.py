@@ -13,7 +13,7 @@ APP_ID = int(os.environ.get("APP_ID", "16253557"))
 API_HASH = os.environ.get("API_HASH", "81171c25e4cb9062cb10da8b7730432a")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002205282436"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002129910582"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "1996039956"))
@@ -34,7 +34,7 @@ SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "publicearn.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "49dfd48246afe5b02077559e38bba26969a80351")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
-TUT_VID = os.environ.get("TUT_VID", "https://t.me/Ultroid_Official/18") # shareus ka tut_vid he 
+TUT_VID = os.environ.get("TUT_VID", "https://t.me/LINKKHOLNE/3") # shareus ka tut_vid he 
 
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002233460126"))
